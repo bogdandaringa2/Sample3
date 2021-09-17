@@ -1,3 +1,6 @@
+Sample site link
+https://bogdandaringa2.github.io/Sample3/
+
 Thanks for downloading this template!
 
 Template Name: Day
